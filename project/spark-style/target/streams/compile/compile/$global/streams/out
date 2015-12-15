@@ -1,0 +1,42 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set(/root/spark_original/spark-1.1.0/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/root/spark_original/spark-1.1.0_taskschedule/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/root/spark_original/spark-1.1.0/project/spark-style/target/scala-2.10/classes/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker$$anonfun$verify$1.class, /root/spark_original/spark-1.1.0/project/spark-style/target/scala-2.10/classes/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.class, /root/spark_original/spark-1.1.0/project/spark-style/target/scala-2.10/classes/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker$$anonfun$verify$2$$anonfun$apply$2.class, /root/spark_original/spark-1.1.0/project/spark-style/target/scala-2.10/classes/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker$$anonfun$verify$2$$anonfun$apply$1.class, /root/spark_original/spark-1.1.0/project/spark-style/target/scala-2.10/classes/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker$$anonfun$verify$2.class, /root/spark_original/spark-1.1.0/project/spark-style/target/scala-2.10/classes/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker$$anonfun$verify$3.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/root/spark_original/spark-1.1.0/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala, /root/spark_original/spark-1.1.0_taskschedule/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/root/spark_original/spark-1.1.0/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/root/spark_original/spark-1.1.0/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala, /root/spark_original/spark-1.1.0_taskschedule/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /root/spark_original/spark-1.1.0_taskschedule/project/spark-style/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 18676e83, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/root/spark/jdk1.7.0_40/jre/lib/resources.jar:/root/spark/jdk1.7.0_40/jre/lib/rt.jar:/root/spark/jdk1.7.0_40/jre/lib/sunrsasign.jar:/root/spark/jdk1.7.0_40/jre/lib/jsse.jar:/root/spark/jdk1.7.0_40/jre/lib/jce.jar:/root/spark/jdk1.7.0_40/jre/lib/charsets.jar:/root/spark/jdk1.7.0_40/jre/lib/jfr.jar:/root/spark/jdk1.7.0_40/jre/classes:/root/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/root/spark_original/spark-1.1.0_taskschedule/project/spark-style/target/scala-2.10/classes:/root/.ivy2/cache/org.scalastyle/scalastyle_2.10/jars/scalastyle_2.10-0.4.0.jar:/root/.ivy2/cache/org.scalariform/scalariform_2.10/jars/scalariform_2.10-0.1.4.jar:/root/.ivy2/cache/com.github.scopt/scopt_2.10/jars/scopt_2.10-3.2.0.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.343428097 s[0m
+[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/root/spark_original/spark-1.1.0_taskschedule/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/root/spark_original/spark-1.1.0_taskschedule/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/root/spark_original/spark-1.1.0/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/root/spark_original/spark-1.1.0/project/spark-style/src/main/scala/org/apache/spark/scalastyle/SparkSpaceAfterCommentStartChecker.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
