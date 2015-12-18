@@ -1,6 +1,9 @@
 # Spark-1.1.0-ICA3PP2015
 The repository includes what I have modified on the Spark 1.1.0, which I have transformed this work into a paper in ICA3PP'15
 
+#Paper in ICA3PP 2015
+ Our work has been written in the paper titled "Improving the Memory Efficiency of In-Memory MapReduce Based HPC Systems". The detailed implementations are shown in our paper which can be downloaded in the link http://link.springer.com/chapter/10.1007/978-3-319-27119-4_12
+
 # Apache Spark
 
 Spark is a fast and general cluster computing system for Big Data. It provides
